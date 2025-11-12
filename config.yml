@@ -52,7 +52,8 @@ params:
     profileMode:
           enabled: true
           title: Grigory Aleksin
-          subtitle: "I am a PhD Candidate in Economics at Royal Holloway, University of London under the supervision of Prof. Arnaud Chevalier and Prof. Melanie Lührmann. My research is primarily in applied microeconomics with a focus on crime, public policy and political economy. My most recent project considers how changes in the salience of religious minorities is linked violent crime, and whether differences in this type of backlash across areas, based on political preferences, can be attributed to social or economic factors."
+          subtitle: "I am a PhD Candidate in Economics at Royal Holloway, University of London under the supervision of Prof. Arnaud Chevalier and Prof. Melanie Lührmann. My research is primarily in applied microeconomics with a focus on crime, public policy and political economy. My most recent project considers how changes in the salience of religious minorities is linked violent crime, and whether differences in this type of backlash across areas, based on political preferences, can be attributed to social or economic factors.
+<br>**I am on the job market during the 2025–26 academic year.**"
           imageUrl: "profile_pic.jpg"
           imageWidth: 175
           imageHeight: 160
