@@ -1,31 +1,10 @@
 ---
-title: "Lectures at the Villa of Reduced Circumstances"
-date: 2003-03-10
-aliases: 
-    - /courses/course2/slides4.pdf
-    - /courses/course2/slides1.pdf
-    - /courses/course2/slides3.pdf
-    - /courses/course2/slides2.pdf
-    - /courses/course2/notes3.pdf
-    - /courses/course2/notes4.pdf
-    - /courses/course2/ps3.pdf
-    - /courses/course2/ps4.pdf
-    - /courses/course1/quiz1.pdf
-    - /courses/course1/quiz2.pdf
-    - /courses/course2/quiz3.pdf
-    - /courses/course2/quiz4.pdf
-    - /courses/course1/ps1.pdf
-tags: ["Romance languages","philology","irregular verbs","Spanish","Portuguese"]
-author: "Moritz-Maria von Igelfeld"
-description: "This graduate course presents classical results in Romance philology." 
-summary: "This graduate course presents classical results in Romance philology. it focuses especially on Portugese and Spanish irregular verbs." 
-cover:
-    image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
-    relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
+title: "Microeconomics (UG) - Practice Problems"
+date: 2025-09-01
+tags: ["intermediate microeconomics", "problem sets"]
+author: "Grigory Aleksin"
+description: "This is set of practice problems and solutions for courses in Intermediate Microeconomics." 
+summary: "This is a set of practice problems and solutions for various topics in Intermediate Microeconomics. Most of the material should be accessible to 1st-year undergraduate students, and can be used to supplement many introductory courses." 
 showToc: true
 disableAnchoredHeadings: false
 
@@ -33,87 +12,103 @@ disableAnchoredHeadings: false
 
 ## Introduction
 
-This course covers research topics related to Romance philology. It focuses especially on Portugese and Spanish irregular verbs. It tries to answer several questions: 
+This large set of practice problems and solution was originally made while I was a PGTA for students of the SESS0007: Introduction to Microeconomics course at SSEES, UCL. The problems therefore match the structure and content of the course as it was in the 2023-24 academic year. Please keep this in mind when using this resource. Note too that each problem set comes with a preliminary section describing some of the techniques needed for the topic. 
 
-+ Why are there irregular verbs? 
-+ How are Portuguese irregular verbs different from Spanish irregular verbs? 
-+ What is the role of Latin and Greek in these irregularities? 
-+ What about irregular verbs in other Romance languages?
-    + Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. 
-    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-    + Excepteur sint occaecat cupidatat non proident.
-    
-Sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Part 1: Basic Mathematics for Economists
 
-## Part 1: Review of Romance languages
+This section contains notes for the following topics in mathematics: equations & algebra, functions & inverses, limits, logarithms and exponentials, differentiation and partial differentiation. This is not exhaustive of the material needed for undergraduate economics but provides a decent foundation for the problem sets provided here.
 
-This section reviews Romance languages. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##### Problems and Solutions
 
-##### Lecture videos
++ [Problem Set](0_Mathematics_for_Economics.pdf)
++ [Solutions](0_Mathematics_for_Economics_SOLUTIONS.pdf)
 
-+ [Lecture video 1](https://youtu.be/3MZeJED2yns) – This is a first lecture video.
-+ [Lecture video 2](https://youtu.be/8ihJsf-AXdA) – This is a another lecture video.
-+ [Lecture video 3](https://youtu.be/79MSNfp1rw0) – This is a third lecture video. It is quite short.
+## Part 2: Supply and Demand
 
-##### Lecture notes
+This section contains problem sets for obtaining inverse supply and demand curves, finding simple equilibria and evaluating the impact of specific taxes. 
 
-+ [Lecture note 1](lecture1.pdf)
+##### Problems and Solutions
 
-##### Readings
++ [Problem Set](1_Supply_and_Demand.pdf)
++ [Solutions](1_Supply_and_Demand_SOLUTIONS.pdf)
 
-+ [Paper 1](https://pascalmichaillat.org/1.pdf) – This is a first paper to read.
-+ [Paper 2](https://pascalmichaillat.org/2.pdf) – This paper builds on the first one.
-+ [Paper 3](https://pascalmichaillat.org/4.pdf) – This paper is more complex.
+## Part 3: Consumer Theory
 
-## Part 2: Portugese irregular verbs
+This section concerns the basics of consumer theory: using utility functions, finding the marginal rate of substitution and transformation, and solving simple utility maximisation problems subject to a budget constraint. The final challenge question introduces the indirect utility function and Roy's Identity.  
 
-This section introduces Portugese irregular verbs. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+##### Problems and Solutions
 
-##### Lecture videos
++ [Problem Set](2_Consumer_Theory.pdf)
++ [Solutions](2_Consumer_Theory_SOLUTIONS.pdf)
 
-+ [Lecture video 4](https://youtu.be/IZI0_WwIyb8)
-+ [Lecture video 5](https://youtu.be/Qz7CCB1-gu8)
-+ [Lecture video 6](https://youtu.be/79MSNfp1rw0)
+## Part 4: Producer Theory
 
-##### Lecture notes
+This section introduces the notion of a production functions and its properties. Students are asked to calculate marginal products and rates of technical substitution, determine the return to scale exhibited by a given production function and show an understanding of the nature of technological change. 
 
-+ [Lecture note 2](lecture2.pdf)
+##### Problems and Solutions
 
-##### Readings
++ [Problem Set](3_Production_Theory.pdf)
++ [Solutions](3_Production_Theory_SOLUTIONS.pdf)
 
-+ [Paper 4](https://pascalmichaillat.org/5.pdf) – This paper computes things. (Details about the simulations are presented in the paper's [online appendix](https://pascalmichaillat.org/5a.pdf).)
-+ [Paper 5](https://pascalmichaillat.org/3.pdf) – This paper proves things. (The paper's [online appendix](https://pascalmichaillat.org/3a.pdf) contains long proofs and extensions of the results.)
+## Part 4: Costs
 
+This section concerns the nature of costs: understanding the difference between the total, average and marginal cost functions, solving basic cost minimisation problems, deriving the long-run cost function for a firm and finding expansion paths. 
 
-## Part 3: Spanish irregular verbs
+##### Problems and Solutions
 
-This section quickly discusses irregular verbs in Spanish. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
++ [Problem Set](4_Costs.pdf)
++ [Solutions](4_Costs_SOLUTIONS.pdf)
 
-##### Lecture videos
+## Part 5: Competitive Firms and Markets
 
-+ [Lecture video 7](https://youtu.be/pIS8-mXG1oY)
-+ [Lecture video 8](https://youtu.be/FUaeNM8_fxs)
-+ [Optional lecture video](https://youtu.be/xjHVrx7jfdY)
+This section contains questions about profit maximisation for perfectly competitive firms. It introduces the idea that such firms profit maximise at the output level where the market price equals their marginal cost of production. Question concern: evaluating whether a firm will shutdown or continue operating in the short-run, deriving firm and market-level supply curves and working with the residual demand curve. 
 
-##### Basic readings
+##### Problems and Solutions
 
-+ [Paper 6](https://pascalmichaillat.org/10.pdf)
++ [Problem Set](5_Competitive_Firms_and_Markets.pdf)
++ [Solutions](5_Competitive_Firms_and_Markets_SOLUTIONS.pdf)
 
-##### Advanced readings
+## Part 6: Imperfect Competition
 
-+ [Paper 7](https://pascalmichaillat.org/11.pdf)
-+ [Paper 8](https://pascalmichaillat.org/12.pdf)
+This sections covers questions about monopolies and oligopolies, situations where firms have significant market power. This involves working with marginal revenue curves, solving profit maximisation problems where output decisions affect the market price and finding Cournot-Nash Equilibria for duopolies.  
 
-## Conclusion
+##### Problems and Solutions
 
-This section concludes by comparing Portuguese and Spanish irregular verbs to irregular verbs in other Romance languages. 
++ [Problem Set](6_Monopoly_and_Oligopoly.pdf)
++ [Solutions](6_Monopoly_and_Oligopoly_SOLUTIONS.pdf)
 
-> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst. Quisque non felis. Nullam vulputate libero quis ligula. Fusce scelerisque suscipit sapien. Suspendisse commodo ullamcorper magna. 
-> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
+## Part 7: Game Theory
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This section includes a simple introduction to game theory covering static and dynamic 2-player games, introducing the concepts of dominant strategies, best response functions and Nash equilibrium to students. 
+
+##### Problems and Solutions
+
++ [Problem Set](7_Game_Theory.pdf)
++ [Solutions](7_Game_Theory_SOLUTIONS.pdf)
+
+## Part 8: Factor Markets
+
+This section is all about analysing factor markets with attention primarily on the labour market. Students are introduced to monopsonies and are asked to evaluate how they impact firm decision-making and the eventual market equilibrium. 
+
+##### Problems and Solutions
+
++ [Problem Set](8_Factor_Markets.pdf)
++ [Solutions](8_Factor_Markets_SOLUTIONS.pdf)
+
+## Part 9: Externalities and General Equilibrium
+
+This section combines the work on consumer and producer theory and concerns the following: identifying and calculating consumer and producer surplus and deadweight losses from various policies, understanding Pareto welfare and analysing basic Robinson Crusoe economies.
+
+##### Problems and Solutions
+
++ [Problem Set](9_Externalities_and_Equilibrium.pdf)
++ [Solutions](9_Externalities_and_Equilibrium_SOLUTIONS.pdf)
+
+## Part 10: Additional Notes
+
+Here I present some additional notes/derivations that may of interest to economics undergraduate students.
+
++ [Additional Externalities Notes](Externalities_Extra.pdf)
++ [Elasticity of Residual Supply](elasticity_residual_supply.pdf)
++ [Duopoly and Lerner Index Derivation](duopoly_lerner_derivations.pdf)
 

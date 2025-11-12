@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://grigoryaleksin.github.io/" 
+title: Grigory Aleksin
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,22 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
+        - name: JMP
+          url: jmp/
+          weight: 2
         - name: Papers
           url: papers/
-          weight: 2
-        - name: Courses
-          url: courses/
           weight: 3
-        - name: Data
-          url: data/
+        - name: Teaching Materials
+          url: courses/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
-
+        - name: Walking Routes
+          url: hiking/
+          weight: 5
+   
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    author: Grigory Aleksin
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -44,7 +41,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["JMP","Papers","Teaching Materials","Hiking Routes"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,50 +51,32 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
-          imageWidth: 160
+          title: Grigory Aleksin
+          subtitle: "I am a PhD Candidate in Economics at Royal Holloway, University of London under the supervision of Prof. Arnaud Chevalier and Prof. Melanie Lührmann. My research is primarily in applied microeconomics with a focus on crime, public policy and political economy. My most recent project considers how changes in the salience of religious minorities is linked violent crime, and whether differences in this type of backlash across areas, based on political preferences, can be attributed to social or economic factors."
+          imageUrl: "profile_pic.jpg"
+          imageWidth: 175
           imageHeight: 160
           buttons:
+            - name: JMP
+              url: jmp/
             - name: Papers
               url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
+            - name: Teaching Materials
               url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Walking Routes
+              url: hiking/
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: ga_cv.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
+          url: mailto:grigory.aleksin@rhul.ac.uk
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
-        - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://scholar.google.com/citations?user=NSQxB9oAAAAJ&hl=en&oi=ao
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/AleksinGrigory
+        - name: Instagram
+          url: https://www.instagram.com/grigoryaleksin/
 
     assets:
         disableScrollBarStyle: true
@@ -105,8 +84,8 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
-      icon: favicon.ico
+      text: "Grigory Aleksin"
+      icon: home_icon.ico
       iconHeight: 18
 
 markup:
