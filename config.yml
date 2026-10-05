@@ -60,11 +60,13 @@ params:
           buttons:
             - name: JMP
               url: jmp/
+	    - name: CV
+	      url: cv/
             - name: Papers
               url: papers/
-            - name: Teaching Materials
+            - name: Teaching
               url: courses/
-            - name: Walking Routes
+            - name: Walks 
               url: hiking/
 
     socialIcons:
