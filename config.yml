@@ -74,8 +74,8 @@ params:
           url: mailto:grigory.aleksin@rhul.ac.uk
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=NSQxB9oAAAAJ&hl=en&oi=ao
-        - name: Twitter
-          url: https://x.com/AleksinGrigory
+        - name: LinkedIn
+          url: www.linkedin.com/in/grigory-aleksin-56baa1146
         - name: Instagram
           url: https://www.instagram.com/grigoryaleksin/
 
