@@ -1,10 +1,10 @@
 ---
 title: "Local Social Projects and Neighbourhood Crime" 
-date: 2025-10-22
+date: 2026-10-05
 tags: ["crime","community projects","public policy"]
 author: ["Grigory Aleksin","Arnaud Chevalier", "Melanie Luhrmann"]
 description: "Work in Progress" 
-summary: "WORK IN PROGRESS: This paper analyses the impact that community-led social projects have had on local crime rates. The results are mixed, but show the presence of incapacitation effects on anti-social behaviour in urban neighbourhoods." 
+summary: "This paper analyses the impact that community-led social projects have had on local crime rates. The results are mixed, but show the presence of incapacitation effects on anti-social behaviour in urban neighbourhoods." 
 cover:
     alt: "Community Projects and Crime"
     relative: true
@@ -14,19 +14,19 @@ cover:
 
 ##### Download
 
-+ [Paper Draft](Social_Projects_and_Crime_DRAFT.pdf)
++ [Working Paper](social_projects_wp.pdf)
 
 ---
 
 ##### Abstract
 
-We estimate the impact of youth-targeted interventions on crimes in the neighbourhood using exogenous variation in the timing of projects funded by the UK National Lottery. Employing a difference-in-differences approach, we find that communities receiving concurrent interventions totalling £30,000 or more experience reductions in anti-social behaviour of up to 8.1 percent over a 24-month period, with effects intensifying to 10.1 percent in urban areas. These findings suggest that modest, targeted youth programs can generate meaningful reductions in community-level antisocial behaviour. Interestingly, our results indicate that larger infrastructure projects, such as sports centres, may actually increase crime rates by providing target points for youth crime. Overall, our results have important implications for the role of community projects in crime prevention strategies.
-
+There is limited evidence on the effectiveness of community-based interventions at reducing local crime. Using quasi-random variation in the timing and location of micro-projects funded by the UK National Lottery, and a difference-in-differences approach, we find that %singular micro-projects which do not focus on crime prevention have no discernable effect. In contrast, 
+communities receiving concurrent interventions totalling \pounds 30,000 or more experienced reductions in anti-social behaviour of up to 5.7 percent over a 24-month period. However, property and violent crime increase in parallel, so that there is no effect on overall crime. Larger infrastructure projects, similarly financed, significantly reduce violent crime by nearly 4\%; an effect that is not offset by changes to property crime. Although these interventions provide new targets for criminals, suitable chosen and targeted interventions can play an important role in crime prevention strategies.  
 ---
 
-##### Figure 7: Intensive Margin of Small Projects in Urban/Rural Areas
+##### Figure B4: Intensive Margin of Small Projects in Urban/Rural Areas
 
-![](asbo_het_urban_class.png)
+![](asbo_per_capita_active_projects.png)
 
 ---
 
