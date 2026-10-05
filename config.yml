@@ -15,7 +15,7 @@ menu:
         - name: JMP
           url: jmp/
           weight: 2
-	- name: CV
+        - name: CV
           url: cv/
           weight: 3
         - name: Papers
@@ -63,8 +63,8 @@ params:
           buttons:
             - name: JMP
               url: jmp/
-	    - name: CV
-	      url: cv/
+            - name: CV
+              url: cv/
             - name: Papers
               url: papers/
             - name: Teaching
