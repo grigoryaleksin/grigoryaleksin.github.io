@@ -21,10 +21,10 @@ menu:
         - name: Papers
           url: papers/
           weight: 4
-        - name: Teaching Materials
+        - name: Teaching
           url: courses/
           weight: 5 
-        - name: Walking Routes
+        - name: Walks
           url: hiking/
           weight: 6
    
