@@ -75,7 +75,7 @@ params:
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=NSQxB9oAAAAJ&hl=en&oi=ao
         - name: LinkedIn
-          url: www.linkedin.com/in/grigory-aleksin-56baa1146
+          url: https://www.linkedin.com/in/grigory-aleksin-56baa1146
         - name: Instagram
           url: https://www.instagram.com/grigoryaleksin/
 
