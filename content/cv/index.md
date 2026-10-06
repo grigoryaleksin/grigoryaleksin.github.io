@@ -4,10 +4,6 @@ disableAnchoredHeadings: false
 hideAuthor: true
 ---
 
-##### Personal Information
-
----
-
 ##### Research Interests
 
 + Applied Microeconomics
@@ -22,8 +18,8 @@ hideAuthor: true
 ##### Work Experience
 
 + Senior Consultant, SQW
-+ Graduate Teaching Assistant
-+ Postgraduate Teaching Assistant
++ Graduate Teaching Assistant, Royal Holloway, University of London
++ Postgraduate Teaching Assistant, University College London
 
 ---
 
